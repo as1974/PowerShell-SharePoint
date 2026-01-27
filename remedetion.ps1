@@ -1,4 +1,4 @@
-# Thüga Restart Manager - Remediation Script
+# Restart Manager - Remediation Script
 Add-Type -AssemblyName System.Windows.Forms
 
 # Registry configuration
